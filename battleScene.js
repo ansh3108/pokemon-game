@@ -8,6 +8,7 @@ const battleBackground = new Sprite({
   image: battleBackgroundImage
 })
 
+
 let draggle
 let emby
 let renderedSprites
