@@ -1,3 +1,4 @@
+
 const battleBackgroundImage = new Image()
 battleBackgroundImage.src = './img/battleBackground.png'
 const battleBackground = new Sprite({
